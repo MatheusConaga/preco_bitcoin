@@ -1,6 +1,6 @@
 # preco_bitcoin
 
-A new Flutter project.
+Sistema simples de requisições de api e internet.
 
 ## Getting Started
 
